@@ -1,0 +1,4 @@
+youtube-dl
+pandas
+google_auth_oauthlib
+google-api-python-client
